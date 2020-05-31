@@ -1,0 +1,229 @@
+﻿[
+        {
+            "Name": "Aggravation",
+            "Source": "Peppy",
+            "Unique Entry ID": "6suhKYAAhh5QMKt64"
+        },
+        {
+            "Name": "Agreement",
+            "Source": "Cranky",
+            "Unique Entry ID": "7smqwK9J7eFBxta28"
+        },
+        {
+            "Name": "Amazed",
+            "Source": "Snooty",
+            "Unique Entry ID": "vosig4bbr4kPq57AT"
+        },
+        {
+            "Name": "Apologetic",
+            "Source": "Big Sister",
+            "Unique Entry ID": "jBKsQYCAd7PtymQeB"
+        },
+        {
+            "Name": "Bashfulness",
+            "Source": "Lazy",
+            "Unique Entry ID": "wzvKbFrEJCseTohoz"
+        },
+        {
+            "Name": "Bewilderment",
+            "Source": "Cranky",
+            "Unique Entry ID": "WRSSRZMtM6rXfXBrR"
+        },
+        {
+            "Name": "Cold Chill",
+            "Source": "Big Sister",
+            "Unique Entry ID": "K62u2owKFDLmPCB3Q"
+        },
+        {
+            "Name": "Confident",
+            "Source": "Big Sister",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "TGifHTbyLBh4f3gDQ"
+        },
+        {
+            "Name": "Curiosity",
+            "Source": "Peppy",
+            "Unique Entry ID": "SskgipgnKzm5TsK7d"
+        },
+        {
+            "Name": "Daydreaming",
+            "Source": "Normal",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "JFrTBJCEaX5R4kABT"
+        },
+        {
+            "Name": "Delight",
+            "Source": "All",
+            "Unique Entry ID": "F9DpGeqZzDeSTh2bq"
+        },
+        {
+            "Name": "Disagreement",
+            "Source": "Big Sister",
+            "Unique Entry ID": "Bw5YBM6iuWgMzutWq"
+        },
+        {
+            "Name": "Distress",
+            "Source": "Jock",
+            "Unique Entry ID": "vsSjQBZXPeSK6uDTK"
+        },
+        {
+            "Name": "Dozing",
+            "Source": "Smug",
+            "Unique Entry ID": "2vvgAacGjthcFW5Qa"
+        },
+        {
+            "Name": "Encouraging",
+            "Source": "Jock",
+            "Unique Entry ID": "fomfML4NWdY8x6adv"
+        },
+        {
+            "Name": "Fearful",
+            "Source": "Normal",
+            "Unique Entry ID": "noKrWYCMSWcH4jwvi"
+        },
+        {
+            "Name": "Flourish",
+            "Source": "Jock",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "5QDD3DcwdPhbGoJAf"
+        },
+        {
+            "Name": "Glee",
+            "Source": "Normal",
+            "Unique Entry ID": "8nAwdhzZfotqpLC9R"
+        },
+        {
+            "Name": "Greetings",
+            "Source": "All",
+            "Unique Entry ID": "oE6uqhZYjYfuqb55n"
+        },
+        {
+            "Name": "Happiness",
+            "Source": "Peppy",
+            "Unique Entry ID": "TWENXBbBENgnFiGq3"
+        },
+        {
+            "Name": "Heartbreak",
+            "Source": "Smug",
+            "Unique Entry ID": "ex6gKZu6zsyd6MgDr"
+        },
+        {
+            "Name": "Inspiration",
+            "Source": "Cranky",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "8ux4ddfibJQR2EuWW"
+        },
+        {
+            "Name": "Intense",
+            "Source": "Snooty",
+            "Unique Entry ID": "X2kzqTaPwtG6SGNT8"
+        },
+        {
+            "Name": "Joy",
+            "Source": "All",
+            "Unique Entry ID": "fSNyHJHgLKac5mSLT"
+        },
+        {
+            "Name": "Laughter",
+            "Source": "Big Sister",
+            "Unique Entry ID": "EBenMHMpwnkMgS6eg"
+        },
+        {
+            "Name": "Love",
+            "Source": "Snooty",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "GvAsErCFuGAcMAeXM"
+        },
+        {
+            "Name": "Mischief",
+            "Source": "Peppy",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "E7it7yLfFaddFvEhQ"
+        },
+        {
+            "Name": "Mistaken",
+            "Source": "Lazy",
+            "Unique Entry ID": "DPR7WWkmR36Bsf2LG"
+        },
+        {
+            "Name": "Pleased",
+            "Source": "Normal",
+            "Unique Entry ID": "Z3MuKfQMaH3D8vkPA"
+        },
+        {
+            "Name": "Pride",
+            "Source": "Lazy",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "xKoQpdJMtocNFRckm"
+        },
+        {
+            "Name": "Resignation",
+            "Source": "Smug",
+            "Unique Entry ID": "7YdF3ZMr95XP3FaoW"
+        },
+        {
+            "Name": "Sadness",
+            "Source": "Normal",
+            "Unique Entry ID": "Wo8q6KhPtL2CYwat4"
+        },
+        {
+            "Name": "Sheepishness",
+            "Source": "Cranky"
+        },
+        {
+            "Name": "Shocked",
+            "Source": "Jock",
+            "Unique Entry ID": "bn29da8SNdMYYyWAa"
+        },
+        {
+            "Name": "Showmanship",
+            "Source": "Smug",
+            "Source Notes": "Requires a high level of friendship",
+            "Unique Entry ID": "Bj5iG7kc6tLND9bjn"
+        },
+        {
+            "Name": "Shyness",
+            "Source": "Lazy",
+            "Unique Entry ID": "9H7jt7AGKbh6mW4y8"
+        },
+        {
+            "Name": "Sighing",
+            "Source": "Snooty",
+            "Unique Entry ID": "ntjLqg82EQNsgnzYA"
+        },
+        {
+            "Name": "Sleepy",
+            "Source": "Peppy",
+            "Unique Entry ID": "9e5BhxmqtMurNWqW4"
+        },
+        {
+            "Name": "Smirking",
+            "Source": "Smug",
+            "Unique Entry ID": "KDAWT9zDKpufEWgaW"
+        },
+        {
+            "Name": "Sneezing",
+            "Source": "Jock",
+            "Unique Entry ID": "F6Dkk4PGtjDMCgry3"
+        },
+        {
+            "Name": "Sorrow",
+            "Source": "Lazy",
+            "Unique Entry ID": "W8nngMS98uwpHHW4m"
+        },
+        {
+            "Name": "Surprise",
+            "Source": "All",
+            "Unique Entry ID": "7jmkZiSxrYT7MMm4P"
+        },
+        {
+            "Name": "Thought",
+            "Source": "Snooty",
+            "Unique Entry ID": "HEFCeCGtJ7Bkb5PXG"
+        },
+        {
+            "Name": "Worry",
+            "Source": "Cranky",
+            "Unique Entry ID": "TygKeKxvotLEzWqvY"
+        }
+    ]
