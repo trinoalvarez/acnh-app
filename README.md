@@ -13,3 +13,11 @@ Inside this repository, you'll find all the JSON files in the root of the direct
 **Alexis LOURS (https://github.com/alexislours)** created an amazing tool called the **ACNHAPI**, which compiles the data into a very handy API, but the data doesn't include every single item in the game as far as I know (they've included what seems to be main categories like villagers, bugs, fish, music, fossils, art), that's why I've decided to create this project and although it's not an API, you can access the JSON files and host them / use them inside your own projects!
 
 Alexis also created and maintains a **Google Sheets document with translations** for everything from items to villagers in the game, it's a very useful set of data which you could utilize in addition to their API or the JSON files I've created.
+
+## Copyright
+
+This project is absolutely free and available for you to download, use, clone, edit and include in your own projects.
+
+## Disclaimer
+
+I claim absolutely no ownership of any intellectual property associated with Nintendo Co., Ltd. or Animal Crossing.
